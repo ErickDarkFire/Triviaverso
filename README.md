@@ -1,2 +1,3 @@
-# Proyeto_web
+# Triviaverso
+
 Seguimiento del desarrollo del desarrollo del proyecto final para la materia de Desarrollo 
